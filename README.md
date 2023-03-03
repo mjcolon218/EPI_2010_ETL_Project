@@ -12,7 +12,7 @@ To find a more comprehensive connection between corruption and environmental hea
 
 I also used Tableau to create some visualizations to confirm or refute my observations regarding the connection between the CPI and EPI. The results were similar to those obtained using seaborn plots. In general, we can infer that the higher the CPI, the higher the EPI is. It appears that there are fewer violations and less environmental damage in countries that have better control of corruption. However, as mentioned above, there are still a great number of countries with terrible CPI scores and decent levels of various environmental metrics' health. Therefore, we need more extensive data to make valid assumptions.
 
-![screenshots1](images\countryRank.png?raw=true)
-![screenshots2](images\countryscore.png?raw=true)
-![screenshots3](images\histwater_h.png?raw=true)
-![screenshots4](images\airrank.png?raw=true)
+![screenshots1](images/countryRank.png?raw=true)
+![screenshots2](images/countryscore.png?raw=true)
+![screenshots3](images/histwater_h.png?raw=true)
+![screenshots4](images/airrank.png?raw=true)
