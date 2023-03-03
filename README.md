@@ -20,10 +20,10 @@ I also used Tableau to create some visualizations to confirm or refute my observ
 
 
 
-![screenshots1](images\countryscore.png)
+![screenshots2](images\countryscore.png)
 
 
 
-![screenshots1](images\waterscore.png)
+![screenshots3](images\histwater_h.png)
 
-![screenshots1](images\airrank.png)
+![screenshots4](images\airrank.png)
